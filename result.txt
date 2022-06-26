@@ -1,0 +1,8 @@
+    train_model.py
+Results: Epoch 100/100 983/983 [==============================] - 2s 2ms/step - loss: 0.1043 - accuracy: 0.9630
+
+    analysis.py
+F-Score:  80.20030383165476
+Precision:  88.27099331186524
+Recall:  73.4818022476544
+Accuracy:  70.30630326554721
